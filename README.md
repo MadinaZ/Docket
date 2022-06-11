@@ -1,4 +1,4 @@
-# Docket
+# Docket - Web Planner
 ## Fully working planner web application designed for Database Management System Class. Java was used for database manipulation, JavaScript&Bootstrap were used for front-end development. 
 ![unknown](https://user-images.githubusercontent.com/42979064/173188483-72779f28-30c4-43b3-afea-b8460074e1c0.png)
 
